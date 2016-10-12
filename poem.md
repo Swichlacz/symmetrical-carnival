@@ -1,6 +1,7 @@
 #The Morning Of Life.
 *By Victor-Marie Hugo*
 
+
 The mist of the morning is torn by the peaks,<br/>
 Old towers gleam white in the ray, <br/>
 And already the glory so joyously seeks <br/>
@@ -17,5 +18,5 @@ Where glitters Eternity's stream, <br/>
 And you shall have waked 'midst pure glories unknown, <br/>
 As sunshine disperses a dream.
 
-
+ [link to this poem] (http://www.public-domain-poetry.com/victor-marie-hugo/morning-of-life-20876)<br/>
  [*Link to other __Victor-Marie Hugo__ poems*] (http://www.public-domain-poetry.com/victor-marie-hugo)
